@@ -1,0 +1,12 @@
+numpy
+pandas
+seaborn
+scikit-learn
+kagglehub
+imbalanced-learn
+xgboost
+shap
+fastapi
+uvicorn[standard]
+streamlit
+requests
