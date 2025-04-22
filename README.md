@@ -151,4 +151,4 @@ Feel free to check [issues page](#) or submit a pull request.
 ## 🙏 Acknowledgements
 
 - Dataset by [arshmankhalid](https://www.kaggle.com/arshmankhalid)  
-- Built with [Scikit-Learn](https://scikit-learn.org/), [XGBoost](https://xgboost.ai/), [FastAPI](https://fastapi.tiangolo.com/), and [Streamlit](https://streamlit.io/)
+- Built with [Scikit-Learn](https://scikit-learn.org/), [Random Forest](https://xgboost.ai/), [FastAPI](https://fastapi.tiangolo.com/), and [Streamlit](https://streamlit.io/)
